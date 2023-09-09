@@ -1,4 +1,6 @@
 body {
   background-image: url("pexels-jonathan-borba-5353561.jpg");
 }
-p1{color:aqua;}
+p1{background:aqua;
+  color:aqua;
+  }
